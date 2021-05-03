@@ -1,1 +1,1 @@
-# MolecualrLogicMouseNeoCortex
+# MolecularLogicMouseNeoCortex
